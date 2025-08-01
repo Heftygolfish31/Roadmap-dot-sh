@@ -52,7 +52,6 @@ All user input is taken at the command line level as an argument to the program'
 
 - `TASK-1`: Take Arguments.
 - `TASK-2`: Switch Mode Depending On Arguments Given.
-- `TASK-16`: File Handling.
 - `TASK-3`: Add 'Add' Functionality.
 - `TASK-4`: Detect And Catch 'And' Errors.
 - `TASK-5`: Add 'Update' Functionality.
