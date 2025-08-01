@@ -4,9 +4,9 @@ Trying the projects from different programming languages from the site [roadmap.
 
 ## Attempted Languages
 
-- [Python](https://roadmap.sh/python/) (**0** projects attempted, found in [/python](/python/README.md))
+- [Python](https://roadmap.sh/python/) (**1** projects attempted, found in [/python](/python/README.md))
 
 ## Credits
 
-- Me.
+- Me, cubic.
 - The good people of roadmap.sh.
